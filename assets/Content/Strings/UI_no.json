@@ -387,7 +387,7 @@
   "ChatCommands_Message_Help": "{0} [bonde navn]: sender en privat melding til en spiller.",
   "ChatCommands_Pause_Help": "{0}: pause spillet for alle spillere.",
   "ChatCommands_Qi_1": "Mr. Qi: Hei, gutt. Ja, jeg er her. Hva forventet du?",
-  "ChatCommands_Qi_2": "Mr. Qi: Hei... fortsett det gode arbeidet, og slutt aldri å strebe etter suksess!      Jeg ser deg snart, gutt...",
+  "ChatCommands_Qi_2": "Mr. Qi: Hei... fortsett det gode arbeidet, og slutt aldri å strebe etter suksess!               Jeg ser deg snart, gutt...",
   "ChatCommands_Qi_3": "Mr. Qi er borte",
   "ChatCommands_Reply_Help": "{0}: svarer på en privat melding.",
   "ChatCommands_Reply_Failed": "Kunne ikke sende svar",

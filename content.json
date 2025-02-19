@@ -4,7 +4,7 @@
 		// Strings
 		{
 			"Action": "Load",
-			"Target": "Strings/1_6_Strings, Strings/AnimationDescription, Strings/BigCraftables, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentName, Strings/Events, Strings/FarmAnimals, Strings/Furniture, Strings/Objects, Strings/SpeechBubbles, Strings/UI, Strings/Weapons",
+			"Target": "Strings/1_6_Strings, Strings/AnimationDescription, Strings/BigCraftables, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentName, Strings/Events, Strings/FarmAnimals, Strings/Furniture, Strings/Lexicon, Strings/Locations, Strings/Objects, Strings/SpeechBubbles, Strings/UI, Strings/Weapons",
 			"FromFile": "assets/Content/{{Target}}_no.json",
 			"When": {
 				"Language": "en"
