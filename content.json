@@ -1,6 +1,15 @@
 {
     "Format": "2.5.0",
 	"Changes": [
+		// TV
+		{
+			"Action": "Load",
+			"Target": "Data/TV/CookingChannel, Data/TV/TipChannel",
+			"FromFile": "assets/Content/{{Target}}_no.json",
+			"When": {
+				"Language": "en"
+			}
+		},
 		// Strings
 		{
 			"Action": "Load",
