@@ -1,0 +1,11 @@
+{
+    "Name": "Stjerneduggdalen",
+    "Author": "Empyreum",
+    "Version": "0.0.1",
+    "Description": "Norwegian Translation for Stardew Valley",
+    "UniqueID": "Empyreum.Stjerneduggdalen",
+    "UpdateKeys": [],
+	"ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

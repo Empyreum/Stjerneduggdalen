@@ -1,0 +1,14 @@
+{
+    "Format": "2.5.0",
+	"Changes": [
+		// Strings
+		{
+			"Action": "Load",
+			"Target": "Strings/UI, Strings/Weapons, Strings/1_6_Strings, Strings/Characters, Strings/EnchantmentName, Strings/Events, Strings/FarmAnimals, Strings/Objects, Strings/SpeechBubbles",
+			"FromFile": "assets/Content/{{Target}}_no.json",
+			"When": {
+				"Language": "en"
+			}
+		}
+	]
+}
