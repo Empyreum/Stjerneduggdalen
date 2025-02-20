@@ -1,6 +1,6 @@
 # Stjerneduggdalen
 
-![screenshot](Gemini_Generated_logo.jpg)
+![screenshot](Gemini_Generated_Stjerneduggdalen_logo.png)
 
 Norsk oversettelse av Stardew Valley, oversatt med hjelp av Google Gemini.
 
