@@ -1,6 +1,24 @@
 {
     "Format": "2.5.0",
 	"Changes": [
+		// Dialogue
+		{
+			"Action": "Load",
+			"Target": "Characters/Dialogue/Abigail",
+			"FromFile": "assets/Content/{{Target}}_no.json",
+			"When": {
+				"Language": "en"
+			}
+		},
+		// Marriage
+		{
+			"Action": "Load",
+			"Target": "Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail",
+			"FromFile": "assets/Content/{{Target}}_no.json",
+			"When": {
+				"Language": "en"
+			}
+		},
 		// TV
 		{
 			"Action": "Load",
@@ -13,7 +31,7 @@
 		// Strings
 		{
 			"Action": "Load",
-			"Target": "Strings/1_6_Strings, Strings/AnimationDescription, Strings/BigCraftables, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentName, Strings/Events, Strings/FarmAnimals, Strings/Furniture, Strings/Lexicon, Strings/Locations, Strings/MovieConcessions, Strings/MovieReactions, Strings/Movies, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Pants, Strings/Quests, Strings/Shirts, Strings/SimpleNonVillagerDialogues, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/Tools, Strings/UI, Strings/Weapons",
+			"Target": "Strings/1_6_Strings, Strings/AnimationDescription, Strings/BigCraftables, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentName, Strings/Events, Strings/FarmAnimals, Strings/Furniture, Strings/Lexicon, Strings/Locations, Strings/MovieConcessions, Strings/MovieReactions, Strings/Movies, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Pants, Strings/Quests, Strings/Shirts, Strings/SimpleNonVillagerDialogues, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/Tools, Strings/UI, Strings/Weapons, Strings/WorldMap",
 			"FromFile": "assets/Content/{{Target}}_no.json",
 			"When": {
 				"Language": "en"
