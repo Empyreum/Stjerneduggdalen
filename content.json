@@ -13,7 +13,7 @@
 		// Marriage
 		{
 			"Action": "Load",
-			"Target": "Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail",
+			"Target": "Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas",
 			"FromFile": "assets/Content/{{Target}}_no.json",
 			"When": {
 				"Language": "en"
