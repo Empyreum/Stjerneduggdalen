@@ -40,7 +40,7 @@
 		// Schedules
 		{
 			"Action": "Load",
-			"Target": "Strings/schedules/Abigail",
+			"Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
 			"FromFile": "assets/Content/{{Target}}_no.json",
 			"When": {
 				"Language": "en"
