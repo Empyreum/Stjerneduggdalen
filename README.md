@@ -4,14 +4,13 @@
 
 Norsk oversettelse av Stardew Valley, oversatt med hjelp av Google Gemini.
 
-## Done (65/- filer)
+## Done (114/231 filer)
 - Strings (30/30 filer)
 - Strings/schedules (30/30 filer)
-- Characters/Dialogue (3/52 filer)
+- Characters/Dialogue (52/52 filer)
 - Data/TV (2/2 filer)
 
-## TODO (113/146 filer)
-- Characters/Dialogue/... (49/52 filer)
+## TODO (117 filer)
 - Data (64/64 filer)
 - - Achievements, Boots, Bundles, EngagementDialogue, ExtraDialogue, hats, mail, Monsters, NPCGiftTastes, Quests, SecretNotes
   - Events (44/44 filer)
