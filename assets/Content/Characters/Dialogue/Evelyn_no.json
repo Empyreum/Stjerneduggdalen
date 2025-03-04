@@ -38,7 +38,7 @@
   "fall_Wed": "Den gode ordføreren har gitt meg ansvaret for byens offentlige hager.#$e#Høstblomstene er skjøre, så ikke gå og tramp på dem! Jeg vet hvordan dere unger liker å gjøre.",
   "fall_Thu": "I dag baker jeg kjeks. De er formet som små gresskar.$h#$e#Kanskje jeg forteller deg oppskriften min en av disse dagene.",
   "fall_Sat": "Er du venner med Alex?#$e#Noen ganger bekymrer han meg veldig.",
-  "fall_Sat_inlaw_Alex": "Å, hei min kjære. Jeg tenker på deg som min egen <span class="math-inline">\{grandson^grand\-daughter\}</span> nå.$h",
+  "fall_Sat_inlaw_Alex": "Å, hei min kjære. Jeg tenker på deg som min egen ${grandson^grand-daughter}$ nå.$h",
   "fall_Sun": "Synet mitt er kanskje dårlig, men nesen min har ikke sviktet meg ennå!#$e#Jeg kan lukte falne blader og sopp. Det minner meg om skogene jeg pleide å leke i som jente.",
   "winter_Mon": "Vær forsiktig så du ikke sklir på isen, kjære.",
   "winter_Tue": "Fryser du ikke? Du burde ha på deg en tykkere jakke, kjære!#$e#Dette været er ikke bra for leddene mine...$s",

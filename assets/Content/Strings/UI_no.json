@@ -373,7 +373,7 @@
   "ChatCommands_Clear_Help": "{0}: tøm chatloggen.",
   "ChatCommands_Color_Help": "{0} [farge]: angir standard tekstfarge.",
   "ChatCommands_ColorList_Help": "{0}: lister de tilgjengelige tekstfargene.",
-  "ChatCommands_ConcernedApe_1": "ConcernedApe: Hei. Jeg håper du liker ditt nye liv her. Ta vare! [126]",
+  "ChatCommands_ConcernedApe_1": "ConcernedApe: Hei. Jeg håper du liker ditt nye liv her. Ta vare på deg selv! [126]",
   "ChatCommands_ConcernedApe_2": "ConcernedApe jobber hardt...",
   "ChatCommands_Emote_Help": "{0} [emote-ID]: utfør en emote (utelat argumentet for en liste over emoter).",
   "ChatCommands_Help_CommandDescription": " - {0}",
