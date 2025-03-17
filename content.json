@@ -19,6 +19,15 @@
 				"Language": "en"
 			}
 		},
+		// Data
+		{
+			"Action": "Load",
+			"Target": "Data/mail",
+			"FromFile": "assets/Content/{{Target}}_no.json",
+			"When": {
+				"Language": "en"
+			}
+		},
 		// Festivals
 		{
 			"Action": "Load",
