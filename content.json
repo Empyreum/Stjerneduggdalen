@@ -19,6 +19,15 @@
 				"Language": "en"
 			}
 		},
+		// Festivals
+		{
+			"Action": "Load",
+			"Target": "Data/Festivals/fall16, Data/Festivals/fall27, Data/Festivals/FestivalDates, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25",
+			"FromFile": "assets/Content/{{Target}}_no.json",
+			"When": {
+				"Language": "en"
+			}
+		},
 		// TV
 		{
 			"Action": "Load",
