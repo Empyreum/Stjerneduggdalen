@@ -22,7 +22,7 @@
 		// Data
 		{
 			"Action": "Load",
-			"Target": "Data/mail",
+			"Target": "Data/Achievements, Data/Boots, Data/EngagementDialogue, Data/ExtraDialogue, Data/mail",
 			"FromFile": "assets/Content/{{Target}}_no.json",
 			"When": {
 				"Language": "en"
